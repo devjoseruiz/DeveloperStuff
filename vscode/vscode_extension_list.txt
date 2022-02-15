@@ -1,0 +1,11 @@
+CoenraadS.bracket-pair-colorizer-2
+dracula-theme.theme-dracula
+esbenp.prettier-vscode
+formulahendry.auto-close-tag
+formulahendry.auto-complete-tag
+Kelvin.vscode-sshfs
+MS-CEINTL.vscode-language-pack-es
+ms-python.python
+ms-toolsai.jupyter
+PKief.material-icon-theme
+WakaTime.vscode-wakatime
