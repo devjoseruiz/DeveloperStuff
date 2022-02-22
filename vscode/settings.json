@@ -52,5 +52,9 @@
   },
   "[yaml]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
+  },
+  "redhat.telemetry.enabled": false,
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": true,
+  "editor.fontSize": 16
 }

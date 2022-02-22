@@ -17,4 +17,5 @@ octref.vetur
 PKief.material-icon-theme
 redhat.java
 redhat.vscode-yaml
+tombonnike.vscode-status-bar-format-toggle
 WakaTime.vscode-wakatime
