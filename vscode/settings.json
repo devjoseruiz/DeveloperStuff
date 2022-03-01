@@ -5,6 +5,12 @@
   "editor.formatOnSave": true,
   "editor.rulers": [80],
   "editor.wordWrap": "bounded",
+  "[docker]": {
+    "editor.defaultFormatter": "ms-azuretools.vscode-docker"
+  },
+  "[dockercompose]": {
+    "editor.defaultFormatter": "ms-azuretools.vscode-docker"
+  },
   "[python]": {
     "editor.defaultFormatter": "ms-python.python"
   },
